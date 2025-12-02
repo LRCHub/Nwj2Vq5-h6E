@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "どれにしようかな",
+  "base_artist": "Awich",
+  "createdAt": "2025-12-02T08:02:17.810812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どれにしようかな",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/01_どれにしようかな_Awich.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どれにしようかな",
+      "artist": "Albemuth",
+      "has_synced": true,
+      "path": "select/02_どれにしようかな_Albemuth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どれにしようかな",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/03_どれにしようかな_Awich.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どれにしようかな - Doreni Shiyokana (I Got Options)",
+      "artist": "Awich",
+      "has_synced": true,
+      "path": "select/04_どれにしようかな_-_Doreni_Shiyokana_(I_Got_Options)_Awich.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どれにしようかな",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/pl_01_どれにしようかな_Awich.txt"
+    }
+  ]
+}
